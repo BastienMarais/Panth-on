@@ -1,2 +1,2 @@
-# Panth-on
+# Pantheon
 Application java de e-commerce
